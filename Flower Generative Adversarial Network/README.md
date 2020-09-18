@@ -22,7 +22,7 @@ To do this, we will feed the Discriminator the following sample images:
 
 As you may have noticed, these are *high* resolution images, and a *deeper convolutional network* is required to extract intricate features from these images, even after resizing the pictures. However, I do have computational resource limits, so I've tried several architectures, and found one that works eventually. The results are pretty cool, basically we feed the Generator Neural Network some Gaussian noise in the shape of the output images we want:
 
-![Input1](https://github.com/NickCKH/Projects/blob/master/Flower%20Generative%20Adversarial%20Network/Output%20pictures/Flower_GAN_plot_v5_500.png)
+![Input1](https://github.com/NickCKH/Projects/blob/master/Flower%20Generative%20Adversarial%20Network/Input%20pictures/Flower_GAN_plot_v5_500.png)
 
 
 After a back and forth of succeeding and failing to trick the Discriminator thousands of times, the Generator eventually gets good at generating flowers, and outputs stuff like these: 
