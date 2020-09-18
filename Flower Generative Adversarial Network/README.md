@@ -10,4 +10,4 @@ The core idea that rules GANs is based on the “indirect” training through th
 
 In this
 
-![Flower1](/Sample pictures/image_07961.jpg)
+![Flower1](https://github.com/NickCKH/Projects/blob/master/Flower%20Generative%20Adversarial%20Network/Sample%20pictures/image_07961.jpg)
