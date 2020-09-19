@@ -19,11 +19,12 @@ The ABS of an environment, sometimes called a Digital Twin, enables users to pla
 Here's some samples of the Digital Twin of the Port of Hong Kong I've built, enjoy: 
 
 ![HK3](https://github.com/NickCKH/Projects/blob/master/AnyLogic%20Agent%20Based%20Simulation/Sample%20pictures/HK%20overview.PNG)
-Bird's eye view of the Port of Hong Kong, pre-simulation, with no vessels or barges
+*Bird's eye view of the Port of Hong Kong, pre-simulation, with no vessels or barges*
+
 
 ![HK1](https://github.com/NickCKH/Projects/blob/master/AnyLogic%20Agent%20Based%20Simulation/Sample%20pictures/HK%201.PNG)
-Getting busy, vessels and barges start to arrive and load/unload containers
+*Getting busy, vessels and barges start to arrive and load/unload containers*
 
 ![HK2](https://github.com/NickCKH/Projects/blob/master/AnyLogic%20Agent%20Based%20Simulation/Sample%20pictures/HK%202.PNG)
-Zoom in to a container terminal at the Port of Hong Kong
+*Zoom in to a container terminal at the Port of Hong Kong*
 
